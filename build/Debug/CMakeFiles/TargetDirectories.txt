@@ -1,0 +1,6 @@
+C:/Users/bratm/Documents/ws2812b/build/Debug/CMakeFiles/ws2812b.dir
+C:/Users/bratm/Documents/ws2812b/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/bratm/Documents/ws2812b/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/bratm/Documents/ws2812b/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/bratm/Documents/ws2812b/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/bratm/Documents/ws2812b/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

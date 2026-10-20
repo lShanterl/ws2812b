@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/bratm/Documents/ws2812b/build/Debug/cmake_install.cmake",
+		"C:/Users/bratm/Documents/ws2812b/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
